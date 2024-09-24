@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enris\\source\\repos\\web_development\\Simple_Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\enris\\source\\repos\\web_development\\Simple_Calculator\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\enris\\source\\repos\\web_development\\Simple_Calculator\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\enris\\source\\repos\\web_development\\Simple_Calculator\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\enris\\source\\repos\\web_development\\Simple_Calculator\\script.js",
+              "RelativeDocumentMoniker": "script.js",
+              "ToolTip": "C:\\Users\\enris\\source\\repos\\web_development\\Simple_Calculator\\script.js",
+              "RelativeToolTip": "script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-04T02:30:07.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\enris\\source\\repos\\web_development\\Simple_Calculator\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\enris\\source\\repos\\web_development\\Simple_Calculator\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-02T16:01:54.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "c3137a54-4f83-499d-b571-ec32e0a0f3d8",
+        "Display": 0,
+        "X": 266,
+        "Y": 0,
+        "Width": 898,
+        "Height": 821,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\enris\\source\\repos\\web_development\\Simple_Calculator\\styles.css",
+              "RelativeDocumentMoniker": "styles.css",
+              "ToolTip": "C:\\Users\\enris\\source\\repos\\web_development\\Simple_Calculator\\styles.css",
+              "RelativeToolTip": "styles.css",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-02T16:23:51.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Calculator</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+    <container id="main-container">
+        <section id="screen">
+            <input id="input-equation" type="text" min-length="1" maxlength="10"/>
+            <div id="result"></div>
+            <button id="backspace-btn"><img id="backspace-img" src="backspace-lined.png" alt="backspace button"/></button>
+        </section>
+        <section id="btn-box">
+            <button class="calculator-btn" id="clear-btn">C</button>
+            <button class="calculator-btn" id="paranthesis-btn">()</button>
+            <button class="calculator-btn" id="percentage-btn">%</button>
+            <button class="calculator-btn operator-btn" id="division-btn" value="&#247;">&#247;</button>
+            
+            <button class="calculator-btn number-btn" id="seven-btn" value="7">7</button>
+            <button class="calculator-btn number-btn" id="eight-btn" value="8">8</button>
+            <button class="calculator-btn number-btn" id="nine-btn" value="9">9</button>
+            <button class="calculator-btn operator-btn" id="multiplication-btn" value="&#215;">&#215;</button>
+            <button class="calculator-btn number-btn" id="four-btn" value="4">4</button>
+            <button class="calculator-btn number-btn" id="five-btn" value="5">5</button>
+            <button class="calculator-btn number-btn" id="six-btn" value="6">6</button>
+            <button class="calculator-btn operator-btn" id="subtraction-btn>" value="-">-</button>
+            
+            <button class="calculator-btn number-btn" id="one-btn" value="1">1</button>
+            <button class="calculator-btn number-btn" id="two-btn" value="2">2</button>
+            <button class="calculator-btn number-btn" id="three-btn" value="3">3</button>
+            <button class="calculator-btn operator-btn" id="addition-btn" value="+">+</button>
+            
+            <button class="calculator-btn" id="sign-btn">+/-</button>
+            <button class="calculator-btn number-btn" id="zero-btn" value="0">0</button>
+            <button class="calculator-btn number-btn" id="decimal-btn" value=".">.</button>
+            <button class="calculator-btn" id="equals-btn">=</button>
+        </section>
+    </container>
+    <script src="script.js"></script>
+</body>
+</html>
